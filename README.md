@@ -11,3 +11,4 @@ My name is Slivkin Artem, I'm a first year student of ITMO university enrolled i
 ### Tools👨‍💻
 
 - Languages
+![Python](https://img.shields.io/badge/Python-<COLOR>)
