@@ -6,7 +6,7 @@ My name is Slivkin Artem, I'm a first year student of ITMO university enrolled i
 ### Studies📚
 - 👶First year:
 - - [Semester 1](https://github.com/SlivkinArtem/-IS-2022-1_Sem)
-- - [Semester 2]
+- - [Semester 2](https://github.com/SlivkinArtem/-IS-2022-2_Sem)
 
 ### Stats📊
 
