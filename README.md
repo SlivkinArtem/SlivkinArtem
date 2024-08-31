@@ -11,7 +11,11 @@ My name is Slivkin Artem, I'm a third year student of ITMO university enrolled i
 - - [Semester 3](https://github.com/SlivkinArtem/-IS-2022-3_Sem-)
 
 ### Stats📊
+## 📊 &nbsp;Stats
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SlivkinArtem&show_icons=true&card_width=495&theme=dracula)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlivkinArtem&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=SlivkinArtem&theme=dracula)](https://git.io/streak-stats)
 ### Tools👨‍💻
 
 - Languages
