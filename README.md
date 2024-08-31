@@ -1,8 +1,7 @@
 ### Hello there 👋
 
 ### Introduction🤗
-My name is Slivkin Artem, I'm a second year student of ITMO university enrolled in the program "Software Engineering" from Saint-Petersburg, Russia.
-- Currently working on (https://github.com/SlivkinArtem/MachineLearningLabsFromHSE)
+My name is Slivkin Artem, I'm a third year student of ITMO university enrolled in the program "Software Engineering" from Saint-Petersburg, Russia.
 
 ### Studies📚
 - 👶First year:
