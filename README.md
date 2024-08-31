@@ -71,6 +71,6 @@ My name is Slivkin Artem, I'm a third year student of ITMO university enrolled i
 [<img align="left" alt="VK" width="80px" src="https://img.icons8.com/bubbles/200/null/vk-com.png"/>][vk]
 [<img align="left" alt="TG" width="80px" src="https://img.icons8.com/bubbles/200/null/telegram-app.png"/>][tg]
 
-[vk]: https://vk.com/wilfordaf
-[tg]: https://t.me/wilfordaf
+[vk]: https://vk.com/slivixxxx
+[tg]: https://t.me/artiukek
 
