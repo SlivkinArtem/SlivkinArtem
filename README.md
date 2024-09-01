@@ -68,7 +68,7 @@ My name is Slivkin Artem, I'm a third year student of ITMO university enrolled i
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![burgerking](https://img.shields.io/badge/burgerking-FCC624?style=for-the-badge&logo=burgerking&logoColor=#D62300)
+![burgerking](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burgerking&logoColor=white)
 
 
 ## 📱&nbsp; Contact me
