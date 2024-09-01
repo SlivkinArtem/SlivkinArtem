@@ -9,6 +9,7 @@ My name is Slivkin Artem, I'm a third year student of ITMO university enrolled i
 - - [Semester 2](https://github.com/SlivkinArtem/-IS-2022-2_Sem)
 -  👦Second year:
 - - [Semester 3](https://github.com/SlivkinArtem/-IS-2022-3_Sem-)
+- - [Semester 3](https://github.com/SlivkinArtem/-IS-2022-4_Sem-)
 
 ## 📊 &nbsp;Stats
 
