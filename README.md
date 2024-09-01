@@ -24,7 +24,7 @@ My name is Slivkin Artem, I'm a third year student of ITMO university enrolled i
 ![C](https://img.shields.io/badge/C-30B21A?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1F75FE?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=Java&logoColor=blue)
+![Java](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=java&logoColor=blue)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **Version Control**
