@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### Introduction🤗
-My name is Slivkin Artem, I'm a third year student of ITMO university enrolled in the program "Software Engineering" from Saint-Petersburg, Russia.
+My name is Slivkin Artem, I'm a fourth year student of ITMO university enrolled in the program "Software Engineering" from Saint-Petersburg, Russia.
 
 ### Studies📚
 - 👶First year:
