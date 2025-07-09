@@ -4,13 +4,13 @@
 My name is Slivkin Artem, I'm a fourth year student of ITMO university enrolled in the program "Software Engineering" from Saint-Petersburg, Russia.
 
 ### Studies📚
-👶First year:
+* 👶 **First year**:
 - [Semester 1](https://github.com/SlivkinArtem/-IS-2022-1_Sem)
 - [Semester 2](https://github.com/SlivkinArtem/-IS-2022-2_Sem)
-👦Second year:
+* 👦 **Second year**:
 - [Semester 3](https://github.com/SlivkinArtem/-IS-2022-3_Sem-)
 - [Semester 4](https://github.com/SlivkinArtem/-IS-2022-4_Sem-)
-👨 **Third year**:
+* 👨 **Third year**:
 - [Semester 5](https://github.com/SlivkinArtem/-IS-2022-5_Sem-)
 - [Semester 6](https://github.com/SlivkinArtem/-IS-2022-6_Sem-)
 
