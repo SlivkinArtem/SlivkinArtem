@@ -18,7 +18,6 @@ My name is Slivkin Artem, I'm a fourth year student of ITMO university enrolled 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SlivkinArtem&show_icons=true&card_width=495&theme=dracula)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlivkinArtem&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=SlivkinArtem&theme=dracula)](https://git.io/streak-stats)
 ## 👨‍💻 &nbsp;Tools
 
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
