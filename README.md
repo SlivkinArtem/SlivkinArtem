@@ -13,6 +13,7 @@ My name is Slivkin Artem, I'm a fourth year student of ITMO university enrolled 
 * 👨 **Third year**:
     - [Semester 5](https://github.com/SlivkinArtem/-IS-2022-5_Sem-)
     - [Semester 6](https://github.com/SlivkinArtem/-IS-2022-6_Sem-)
+* 👴 **Third year**:
 
 ## 📊 &nbsp;Stats
 
