@@ -14,7 +14,7 @@ My name is Slivkin Artem, I'm a fourth year student of ITMO university enrolled 
     - [Semester 5](https://github.com/SlivkinArtem/-IS-2022-5_Sem-)
     - [Semester 6](https://github.com/SlivkinArtem/-IS-2022-6_Sem-)
 * 👴 **Fourth year**:
-
+    - [Semester 7](https://github.com/SlivkinArtem/-IS-2022-7_Sem-)
 ## 📊 &nbsp;Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SlivkinArtem&show_icons=true&card_width=495&theme=dracula)
